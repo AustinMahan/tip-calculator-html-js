@@ -1,0 +1,17 @@
+body{
+  font-style: 'comic-sans';
+}
+
+h1, h2{
+  text-align: center;
+}
+form{
+  padding: 10px 110px;
+  width: auto;
+}
+
+.content{
+  height: 200px;
+  width: 350px;
+  margin: auto;
+}
